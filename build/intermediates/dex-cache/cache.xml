@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/pmc/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/pmc/Development/mobile_proto/Lab2/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2-1d5844b0de3ec9c7191edf2989ac0be3e080fae2.jar" />
+    </item>
+    <item
+        jar="/Users/pmc/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/pmc/Development/mobile_proto/Lab2/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2-52783d0acc8ad2a6e5b200ca31ab7c478678ee06.jar" />
+    </item>
+    <item
+        jar="/Users/pmc/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/pmc/Development/mobile_proto/Lab2/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2-75476fc6645a6626676d542d7312f7de9e8c97f3.jar" />
+    </item>
+    <item
+        jar="/Users/pmc/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.0.3/81994bbc1bd46454616b733bf31fe4a22018e056/firebase-client-jvm-2.0.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="81994bbc1bd46454616b733bf31fe4a22018e056">
+        <dex dex="/Users/pmc/Development/mobile_proto/Lab2/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.0.3-0d631985cd89dabedd6de8239c51e7e14461a85e.jar" />
+    </item>
+    <item
+        jar="/Users/pmc/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.0.3/1665cb30372ae93a46d9800adf5751bc48fa202f/firebase-client-android-2.0.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1665cb30372ae93a46d9800adf5751bc48fa202f">
+        <dex dex="/Users/pmc/Development/mobile_proto/Lab2/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.0.3-dd97e7bda88b4d667284e83d23c4750a9006d082.jar" />
+    </item>
+    <item
+        jar="/Users/pmc/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.10/ddce2c65136c1de8000f8932d8b7ab16d5d336b9/tubesock-0.0.10.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ddce2c65136c1de8000f8932d8b7ab16d5d336b9">
+        <dex dex="/Users/pmc/Development/mobile_proto/Lab2/app/build/intermediates/pre-dexed/debug/tubesock-0.0.10-91294d8a7dc3b1e0a883394c928a4339bde62551.jar" />
+    </item>
+
+</items>
